@@ -5,7 +5,7 @@
 </picture>
 
 <h2 align="center">
-  I’m Federico, an Software Engineer from Argentina.
+  I’m Federico, an Computer Science Engineer from Argentina.
 </h2>
 
 ## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
